@@ -1,0 +1,25 @@
+.car_details_div{
+    width: 800px;
+    margin-left: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-color: azure;
+}
+
+.car_details_title{
+    color: goldenrod;
+    background-color: #111;
+    font-size: 20px;
+    font-family: 'Arial';
+    text-align: left;
+    font-style: italic;
+  
+}
+
+.car_details_ul{
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    list-style-type: none;
+    font-family: 'Arial';
+}
+
